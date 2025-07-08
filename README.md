@@ -9,14 +9,15 @@ Within this repository, we distribute a whole-body PBPK model of olanzapine for 
 
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
-We encourage contribution to the Open Systems Pharmacology community.
-The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
+
+## Contribution
+We encourage contribution to the Open Systems Pharmacology community. Before getting started please read the [contribution guidelines](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CONTRIBUTING.md#ways-to-contribute). If you are contributing code, please be familiar with the [coding standard](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODING_STANDARDS.md#visual-studio-settings).
 
 ## License
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## References
-[1] Dallmann A, Ince I, Solodenko J, Meyer M, Willmann S, Eissing T, et al. Physiologically Based Pharmacokinetic Modeling of Renally Cleared Drugs in Pregnant Women. Clin Pharmacokinet. 2017;56(12):1525-41.
+[[1] Dallmann A, Ince I, Solodenko J, Meyer M, Willmann S, Eissing T, et al. Physiologically Based Pharmacokinetic Modeling of Renally Cleared Drugs in Pregnant Women. Clin Pharmacokinet. 2017;56(12):1525-41.](https://doi.org/10.1007/s40262-017-0538-0)
 
-[2] Zheng L, Yang H, Dallmann A, Jiang X, Wang L, Hu W. Physiologically Based Pharmacokinetic Modeling in Pregnant Women Suggests Minor Decrease in Maternal Exposure to Olanzapine. Front Pharmacol. 2022;12.
+[[2] Zheng L, Yang H, Dallmann A, Jiang X, Wang L, Hu W. Physiologically Based Pharmacokinetic Modeling in Pregnant Women Suggests Minor Decrease in Maternal Exposure to Olanzapine. Front Pharmacol. 2022;12.](https://doi.org/10.3389/fphar.2021.793346)
 
